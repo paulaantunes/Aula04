@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 public class EntendendoWhile {
 
 	public static void main(String[] args) {
